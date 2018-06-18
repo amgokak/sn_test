@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="some table" max_length="40" name="x_174243_git_test_some_table" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element label="Emp ID" max_length="40" name="emp_id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

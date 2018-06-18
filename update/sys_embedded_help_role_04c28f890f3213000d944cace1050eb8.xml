@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_174243_git_test.some_table_user" name="x_174243_git_test.some_table_user">48c28f890f3213000d944cace1050eb6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 08:02:28</sys_created_on>
+        <sys_id>04c28f890f3213000d944cace1050eb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48c28f890f3213000d944cace1050eb6</sys_name>
+        <sys_package display_value="git test" source="x_174243_git_test">6bc18f410f3213000d944cace1050e7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="git test">6bc18f410f3213000d944cace1050e7d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_04c28f890f3213000d944cace1050eb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 08:02:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
